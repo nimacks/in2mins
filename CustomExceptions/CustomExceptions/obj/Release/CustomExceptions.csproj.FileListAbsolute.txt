@@ -1,0 +1,5 @@
+G:\samuelnmensah.com\repo\in2mins\CustomExceptions\CustomExceptions\bin\Release\CustomExceptions.exe.config
+G:\samuelnmensah.com\repo\in2mins\CustomExceptions\CustomExceptions\bin\Release\CustomExceptions.exe
+G:\samuelnmensah.com\repo\in2mins\CustomExceptions\CustomExceptions\bin\Release\CustomExceptions.pdb
+G:\samuelnmensah.com\repo\in2mins\CustomExceptions\CustomExceptions\obj\Release\CustomExceptions.exe
+G:\samuelnmensah.com\repo\in2mins\CustomExceptions\CustomExceptions\obj\Release\CustomExceptions.pdb
